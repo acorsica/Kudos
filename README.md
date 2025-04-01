@@ -12,7 +12,7 @@ Visitez notre site web pour en savoir plus sur les Kudos et suivre l'évolution 
 - [`introduction.md`](introduction.md) : Introduction du livre
 - `chapitres/` : Dossier contenant les chapitres du livre
   - [`chapitre1.md`](chapitres/chapitre1.md) : Qu'est-ce que les Kudos ?
-  - `chapitre2.md` : Du Troc à la Monnaie
+  - [`chapitre2.md`](chapitres/chapitre2.md) : Du Troc à la Monnaie
   - `chapitre3.md` : L'Évolution des Monnaies Complémentaires
   - `chapitre4.md` : La Création des Kudos
   - `chapitre5.md` : L'Utilisation des Kudos
