@@ -2,6 +2,11 @@
 
 Ce dépôt contient le projet de livre intitulé "Kudos - l'argent du troc au don". Ce livre explore l'histoire, la théorie, et l'utilisation pratique des monnaies complémentaires, avec un focus particulier sur les Kudos, une monnaie alternative visant à révéler la réalité cachée derrière nos échanges et à promouvoir la reconnaissance mutuelle comme fondement d'une nouvelle forme de prospérité partagée.
 
+## Site Web du Projet
+
+Visitez notre site web pour en savoir plus sur les Kudos et suivre l'évolution du projet :
+[https://acorsica.github.io/Kudos/](https://acorsica.github.io/Kudos/)
+
 ## Structure du Dépôt
 
 - [`introduction.md`](introduction.md) : Introduction du livre
