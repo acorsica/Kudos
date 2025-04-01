@@ -14,13 +14,13 @@ Sa carrière en programmation l'a amené à concevoir des architectures de syst�
 
 Héritier du titre de baron Mariani, il a choisi de s'ancrer en Corse, à Corte, où il réside au Château Mariani à Minesteggio. Ce retour aux racines familiales s'est accompagné d'un engagement politique concret pour la démocratie directe et le développement local.
 
-Depuis 2017, il s'est présenté à plusieurs reprises aux élections législatives et sénatoriales en Haute-Corse, portant un projet politique centré sur l'autonomie économique des territoires et la réappropriation citoyenne des outils de création monétaire.
+Depuis 2017, il s'est présenté à plusieurs reprises aux élections législatives et sénatoriales en Corse, portant un projet politique centré sur l'autonomie économique des territoires et la réappropriation citoyenne des outils de création monétaire.
 
 ## Recherche et expérimentation
 
-À la croisée de ses compétences techniques et de son engagement territorial, Jean Hugues Robert a initié plusieurs expérimentations de systèmes de Kudos en Corse, visant à transformer la région en un véritable laboratoire d'innovation sociale et économique.
+À la croisée de ses compétences techniques et de son engagement territorial, Jean Hugues Robert a initié plusieurs expérimentations de systèmes d'échanges en Corse, visant à transformer la région en un véritable laboratoire d'innovation sociale et économique.
 
-Ces expérimentations concrètes, menées en collaboration avec des communautés locales, des artisans et des producteurs corses, bien souvent à leur insu, ont permis de tester et d'affiner les principes théoriques développés dans cet ouvrage.
+Ces expérimentations concrètes, menées en collaboration avec de petites communautés locales, parfois des artisans et des producteurs corses, bien souvent à leur insu, ont permis de tester et d'affiner les principes théoriques développés dans cet ouvrage.
 
 ## Influences intellectuelles
 
@@ -30,15 +30,15 @@ Cette constellation intellectuelle éclectique lui permet d'aborder la question 
 
 ## Publications et interventions
 
-Avant "Kudos - l'argent du troc au don", Jean Hugues Robert a publié plusieurs articles techniques sur les architectures distribuées et les systèmes de consensus, ainsi que des essais sur la démocratie directe et le développement local.
+Avant "Kudos - l'argent du troc au don", Jean Hugues Robert a publié plusieurs articles techniques sur les architectures distribuées et les systèmes de consensus, ainsi que des essais sur la démocratie directe et le développement local ; souvent en association avec des logiciels Open Source.
 
 Il intervient régulièrement sur Internet à propos de l'innovation sociale, des monnaies complémentaires et l'avenir de l'économie à l'ère de l'intelligence artificielle, il y partage sa vision d'un monde où la reconnaissance mutuelle remplacerait progressivement l'accumulation comme moteur des échanges humains.
 
 ## Projets actuels
 
-Outre ses travaux sur les Kudos, Jean Hugues Robert développe actuellement plusieurs projets à l'intersection de la technologie et de l'innovation sociale :
-- Un système de démocratie directe assistée par intelligence artificielle
-- Une plateforme de développement local basée sur la circulation des Kudos
-- Un réseau d'échange d'énergie utilisant les principes de la reconnaissance mutuelle
+Outre ses travaux sur les Kudos, Jean Hugues Robert développe actuellement plusieurs projets à l'intersection de la technologie et de l'innovation sociale, dont :
+- Un système de démocratie directe assistée par intelligence artificielle, Kudocracy.
+- Une plateforme de développement local basée sur la circulation des Kudos.
+- Un réseau d'échange d'énergie utilisant les principes de la reconnaissance mutuelle, autoconsommation électrique collective, Corte.
 
 À travers ces initiatives, il poursuit sa quête d'une économie plus humaine, plus ancrée dans les territoires, et plus consciente de la véritable nature des échanges qui nous lient les uns aux autres.
