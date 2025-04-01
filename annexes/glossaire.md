@@ -12,7 +12,7 @@ Ce glossaire regroupe les définitions des concepts clés abordés dans l'ouvrag
 
 **Bien commun** : Ressource partagée par une communauté et gérée collectivement. Les Kudos peuvent servir à valoriser les contributions au bien commun qui sont souvent invisibles dans l'économie traditionnelle.
 
-**Blockchain** : Technologie de registre distribué qui permet de stocker et transmettre des informations de manière transparente et sécurisée. Certains systèmes de Kudos utilisent la blockchain pour garantir la transparence des échanges.
+**Blockchain** : Technologie de registre distribué qui permet de stocker et transmettre des informations de manière transparente et sécurisée. Certains systèmes de Kudos utilisent la blockchain pour garantir la transparence des échanges. Dans bien des cas, conserver l'historique des transactions dans une base de données centralisée est plus pratique, dès lors que les données sont rendue visibles et donc infalsifiables.
 
 ## C
 
@@ -24,9 +24,9 @@ Ce glossaire regroupe les définitions des concepts clés abordés dans l'ouvrag
 
 ## D
 
-**Démurrage** : Mécanisme par lequel une monnaie perd progressivement de sa valeur avec le temps, encourageant ainsi sa circulation plutôt que sa thésaurisation. Certains systèmes de Kudos intègrent un mécanisme de démurrage.
+**Démurrage** : Mécanisme par lequel une monnaie perd progressivement de sa valeur avec le temps, encourageant ainsi sa circulation plutôt que sa thésaurisation. Certains systèmes de Kudos intègrent un mécanisme de démurrage. L'expression "monnaie fondante" est aussi employée.
 
-**Don** : Acte de donner sans attente explicite de contrepartie immédiate. Dans la théorie de Marcel Mauss, le don crée néanmoins une obligation sociale de réciprocité.
+**Don** : Acte de donner sans attente explicite de contrepartie immédiate. Dans la théorie de Marcel Mauss, le don crée néanmoins une obligation sociale de réciprocité. C'est une différence cruciale avec le don promu par les religions quand elles favorisent l'anonymat des dons.
 
 ## E
 
@@ -50,15 +50,15 @@ Ce glossaire regroupe les définitions des concepts clés abordés dans l'ouvrag
 
 ## M
 
-**Monnaie complémentaire** : Moyen d'échange qui complète la monnaie nationale sans prétendre la remplacer. Les Kudos sont une forme de monnaie complémentaire axée sur la reconnaissance.
+**Monnaie complémentaire** : Moyen d'échange qui complète la monnaie nationale sans prétendre la remplacer. Les Kudos sont une forme de monnaie complémentaire axée sur la reconnaissance. Les dons, exprimés en Kudos, se produisent le plus souvent à l'occasion de transactions marchandes classiques, en complément de ces transactions.
 
-**Monnaie locale** : Type de monnaie complémentaire dont l'usage est limité à une zone géographique définie. Les Kudos peuvent fonctionner comme une monnaie locale dans certains contextes.
+**Monnaie locale** : Type de monnaie complémentaire dont l'usage est limité à une zone géographique définie. Les Kudos peuvent fonctionner comme une monnaie locale dans certains contextes. Plus généralement, le concept de communauté peut s'envisager sous l'angle d'une thématique partagée qui n'est pas nécessairement localisée géographiquement.
 
-**Monnaie-temps** : Système où l'unité de compte est basée sur le temps de travail. Certains systèmes de Kudos s'inspirent de ce principe en valorisant le temps consacré à la communauté.
+**Monnaie-temps** : Système où l'unité de compte est basée sur le temps de travail. Certains systèmes de Kudos s'inspirent de ce principe en valorisant le temps consacré à la communauté. Obtenir des Kudos en échange d'un temps de travail est à ce titre similaire aux Euros qu'on obtient également en travaillant le plus souvent.
 
 ## P
 
-**Pair à pair (P2P)** : Mode d'interaction directe entre individus sans intermédiaire centralisé. Les systèmes de Kudos favorisent souvent les échanges P2P.
+**Pair à pair (P2P)** : Mode d'interaction directe entre individus sans intermédiaire centralisé. Les systèmes de Kudos favorisent souvent les échanges P2P mais c'est essentiellement l'égalité politique, au sens "chacun une voix pour voter les lois", qui régit l'absence de hiérarchie, ie d'égal à égal.
 
 **Potlatch** : Cérémonie de don pratiquée par les peuples autochtones du nord-ouest de l'Amérique du Nord, étudiée par Marcel Mauss. Le potlatch illustre comment le don peut être à la fois généreux et source de prestige social, principe que l'on retrouve dans les Kudos.
 
@@ -66,13 +66,13 @@ Ce glossaire regroupe les définitions des concepts clés abordés dans l'ouvrag
 
 **Réciprocité** : Principe d'échange mutuel et équilibré. Les Kudos formalisent la réciprocité en rendant visible la reconnaissance entre membres d'une communauté.
 
-**Reconnaissance** : Acte d'identifier et d'apprécier la valeur des contributions d'autrui. Les Kudos sont avant tout un système de reconnaissance avant d'être un moyen d'échange.
+**Reconnaissance** : Acte d'identifier et d'apprécier la valeur des contributions d'autrui. Les Kudos sont avant tout un système de reconnaissance avant d'être un moyen d'échange. C'est à rapprocher des notions de "pourboire" ou de "bons points".
 
-**Résilience économique** : Capacité d'un système économique à s'adapter et à se remettre des chocs. Les systèmes de Kudos peuvent contribuer à la résilience des communautés en diversifiant leurs moyens d'échange.
+**Résilience économique** : Capacité d'un système économique à s'adapter et à se remettre des chocs. Les systèmes de Kudos peuvent contribuer à la résilience des communautés en diversifiant leurs moyens d'échange, par le renforcement des liens sociaux et l'émergence de comportement collectif intelligents, y compris entre des acteurs dénués de talents personnels extraordinaires.
 
 ## S
 
-**Système d'Échange Local (SEL)** : Réseau d'échange de biens et services au sein d'une communauté locale, utilisant souvent une monnaie complémentaire. Les Kudos partagent certaines caractéristiques avec les SEL.
+**Système d'Échange Local (SEL)** : Réseau d'échange de biens et services au sein d'une communauté locale, utilisant souvent une monnaie complémentaire. Les Kudos partagent certaines caractéristiques avec les SEL mais s'en distinguent par l'absence d'obligations strictement équilibrées. A ce titre les échanges de Kudos ne sont pas des "actes de commerce" au sens juridique, ce sont des dons librement consenties.
 
 ## T
 
@@ -80,7 +80,7 @@ Ce glossaire regroupe les définitions des concepts clés abordés dans l'ouvrag
 
 **Thésaurisation** : Accumulation de monnaie sans la faire circuler dans l'économie. Les Kudos sont conçus pour décourager la thésaurisation.
 
-**Troc** : Échange direct de biens ou services sans utilisation de monnaie. Le troc représente une forme primitive d'échange que les Kudos cherchent à dépasser en introduisant un médium de reconnaissance.
+**Troc** : Échange direct de biens ou services sans utilisation de monnaie. Le troc représente une forme primitive d'échange que les Kudos cherchent à dépasser en introduisant un médium de reconnaissance. Les opérations de troc sont des échanges équilibrés assimilables à des actes de commerce, ie "des ventes".
 
 ## V
 
