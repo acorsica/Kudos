@@ -29,10 +29,10 @@ Visitez notre site web pour en savoir plus sur les Kudos et suivre l'évolution 
   - [`ressources.md`](annexes/ressources.md) : Ressources pour aller plus loin
 - `dossier-de-soumission/` : Dossier contenant les documents nécessaires pour la soumission du projet aux éditeurs
   - [`resume.md`](dossier-de-soumission/resume.md) : Résumé du livre
-  - `table_des_matieres.md` : Table des matières
-  - `lettre_de_motivation.md` : Lettre de motivation
-  - `biographie_auteur.md` : Biographie de l'auteur
-  - `analyse_marche.md` : Analyse du marché
+  - [`table_des_matieres.md`](dossier-de-soumission/table_des_matieres.md) : Table des matières
+  - [`lettre_de_motivation.md`](dossier-de-soumission/lettre_de_motivation.md) : Lettre de motivation
+  - [`biographie_auteur.md`](dossier-de-soumission/biographie_auteur.md) : Biographie de l'auteur
+  - [`analyse_marche.md`](dossier-de-soumission/analyse_marche.md) : Analyse du marché
   - [`plan_promotion.md`](dossier-de-soumission/plan_promotion.md) : Plan de promotion
 
 ## Licence
