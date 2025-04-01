@@ -5,7 +5,7 @@ Ce dépôt contient le projet de livre intitulé "Kudos - l'argent du troc au do
 ## Site Web du Projet
 
 Visitez notre site web pour en savoir plus sur les Kudos et suivre l'évolution du projet :
-[https://acorsica.github.io/Kudos/](https://acorsica.github.io/Kudos/)
+[https://acorsica.github.io/Kudos/](https://acorsica.github.io/Kudos/) (Note: Le site est en cours de construction, certaines pages peuvent être temporairement indisponibles)
 
 ## Structure du Dépôt
 
