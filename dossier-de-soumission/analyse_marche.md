@@ -54,7 +54,7 @@ Le potentiel commercial de "Kudos - l'argent du troc au don" repose sur plusieur
 
 3. **L'originalité de l'approche** : La dimension perceptuelle des Kudos, présentés comme une technologie de perception, offre un angle original qui peut séduire au-delà du public habituel des ouvrages sur les monnaies alternatives.
 
-4. **L'ancrage dans des expérimentations concrètes** : Les exemples d'application en Corse et ailleurs donnent une crédibilité pratique à l'ouvrage.
+4. **L'ancrage dans des expérimentations concrètes** : Les exemples d'application en Corse et ailleurs donnent une crédibilité pratique à l'ouvrage (un jour je l'espère...).
 
 5. **Le profil unique de l'auteur** : La double expertise de Jean Hugues Robert, à la fois technologique et territoriale, lui permet de toucher des publics habituellement distincts.
 
