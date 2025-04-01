@@ -32,6 +32,7 @@ Comme l'écrivait Philip K. Dick : "La réalité, c'est ce qui continue d'existe
 
 Je vous invite donc à ce voyage à travers les dimensions parallèles de l'économie, à cette exploration des réalités alternatives qui existent déjà en puissance dans nos échanges quotidiens. Car c'est peut-être dans ces dimensions parallèles que nous trouverons les clés d'une prospérité véritablement partagée.
 
-Baron Jean Hugues Noël Robert
+Jean Hugues Noël Robert,
+Baron Mariani
 Château Mariani, Minesteggio
 Corte, Haute-Corse
