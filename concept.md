@@ -47,4 +47,4 @@ Le système des Kudos repose sur plusieurs principes fondamentaux qui guident so
 
 Au-delà de leur dimension pratique, les Kudos représentent une fissure dans la réalité consensuelle de notre système économique. Ils nous permettent d'entrevoir un monde où la valeur n'est plus définie par la rareté et l'accumulation, mais par la reconnaissance mutuelle et la contribution au bien commun.
 
-Cette fissure n'est pas simplement conceptuelle mais expérientielle. Les utilisateurs de systèmes de Kudos rapportent souvent une transformation de leur perception de la valeur et de l'échange.
+Cette fissure n'est pas simplement conceptuelle mais expérientielle. Les utilisateurs de systèmes de Kudos raconteront souvent nous l'espérons une transformation de leur perception de la valeur et de l'échange.
