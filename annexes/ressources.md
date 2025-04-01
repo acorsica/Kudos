@@ -1,13 +1,13 @@
 # Ressources pour aller plus loin
 
-Cette section compile des ressources variées pour approfondir votre compréhension des Kudos et des monnaies complémentaires en général. Vous y trouverez des sites web, des communautés, des outils, des conférences et des formations qui pourront vous aider à mettre en pratique les concepts abordés dans ce livre.
+Cette section compile des ressources variées pour approfondir votre compréhension des Kudos et des monnaies complémentaires en général. Vous y trouverez des sites web, des communautés, des outils, des conférences et des formations qui pourront vous aider à mettre en pratique les concepts abordés dans ce livre. De nombreuses sections sont à compléter, ceci est un "travail en course", un "WIP, Work In Progress".
 
 ## Plateformes et outils pour les monnaies complémentaires
 
 ### Plateformes de Kudos et systèmes de reconnaissance
-- **Giveth** : Plateforme blockchain permettant de récompenser les contributeurs avec des Kudos
+- **Giveth** : Plateforme blockchain permettant de récompenser les contributeurs, avec des Kudos potentiellement (WIP)
   https://giveth.io/
-- **Kudos by Gitcoin** : Système de reconnaissance basé sur la blockchain pour les développeurs open source
+- **Kudos by Gitcoin** : Système de reconnaissance basé sur la blockchain pour les développeurs open source, adaptable aux Kudos (WIP)
   https://gitcoin.co/kudos/
 - **Bonusly** : Plateforme de reconnaissance entre pairs utilisant une monnaie virtuelle
   https://bonus.ly/
