@@ -21,7 +21,7 @@ Voici quelques extraits du livre en cours d'écriture pour vous donner un aperç
 
 ## Du chapitre 5 : L'Utilisation des Kudos
 
-> Dans la communauté de Vicu, petit village corse de 200 habitants, Maria vient de recevoir 5 Kudos de Paolo pour l'aide qu'elle lui a apportée lors de la récolte des olives. Ces Kudos ne sont pas simplement des points dans un jeu ou des jetons abstraits ; ils portent en eux l'histoire de cette collaboration, visible par tous les membres de la communauté.
+> Belle histoire ! Dans la communauté de Vicu, petit village corse de 200 habitants, Maria vient de recevoir 5 Kudos de Paolo pour l'aide qu'elle lui a apportée lors de la récolte des olives. Ces Kudos ne sont pas simplement des points dans un jeu ou des jetons abstraits ; ils portent en eux l'histoire de cette collaboration, visible par tous les membres de la communauté.
 > 
 > Maria pourra utiliser ces Kudos de différentes manières. Elle pourra les "dépenser" pour recevoir de l'aide d'autres villageois, les "investir" dans des projets collectifs du village, ou simplement les conserver comme témoignage de sa contribution à la communauté. Mais contrairement à l'euro, ces Kudos ne sont pas anonymes et fongibles – ils racontent une histoire, celle de Maria aidant Paolo, et cette histoire fait partie intégrante de leur valeur.
 
@@ -35,4 +35,4 @@ Voici quelques extraits du livre en cours d'écriture pour vous donner un aperç
 
 > Le don, comme l'a montré Marcel Mauss, n'est jamais "gratuit" au sens où il serait dénué d'attente de retour. Mais ce retour n'est pas calculé, quantifié, ou exigé comme dans l'échange marchand. Il s'inscrit dans une temporalité différente, plus longue, plus incertaine, et implique une dimension de liberté absente de la transaction commerciale.
 > 
-> Les Kudos occupent un espace intermédiaire fascinant entre le don et l'échange marchand. Ils quantifient la reconnaissance, certes, mais sans la réduire à un prix fixe ou à une équivalence universelle. Ils créent une mémoire sociale des contributions, mais sans transformer cette mémoire en une comptabilité rigide des dettes et des créances.
+> Les Kudos occupent un espace intermédiaire fascinant entre le don purement gratuit et l'échange marchand. Ils quantifient la reconnaissance, certes, mais sans la réduire à un prix fixe ou à une équivalence universelle. Ils créent une mémoire sociale des contributions, mais sans transformer cette mémoire en une comptabilité rigide des dettes et des créances.
