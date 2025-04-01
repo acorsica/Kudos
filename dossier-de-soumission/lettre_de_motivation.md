@@ -1,7 +1,9 @@
 # Lettre de motivation
 
-Maison d'édition,
+Maison d'édition XXXXX
 Gardiens des réalités alternatives,
+
+Cher ami,
 
 Je m'adresse à vous depuis cette faille temporelle que nous appelons le présent, où les monnaies conventionnelles tissent un voile d'illusion sur la véritable nature de nos échanges. Mon nom est Jean Hugues Noël Robert, né un jour de Noël 1965 à Nîmes, comme si le calendrier lui-même voulait signifier quelque chose. Peut-être était-ce un présage de cette quête que je poursuis aujourd'hui : révéler une réalité cachée derrière les symboles que nous utilisons quotidiennement.
 
@@ -25,8 +27,9 @@ Comme Philip K. Dick l'écrivait : "La réalité, c'est ce qui continue d'existe
 
 Dans l'attente de votre réponse, je reste à la frontière de multiples réalités.
 
-Baron Jean Hugues Noël Robert
+Jean Hugues Noël Robert
+Baron Mariani
 Château Mariani, Minesteggio
 20250 Corte, Haute-Corse
 
-Le 21 juin 2023, solstice d'été, jour où la lumière triomphe momentanément des ténèbres.
+RDV le 21 juin 2025, solstice d'été, jour où la lumière triomphe momentanément des ténèbres.
