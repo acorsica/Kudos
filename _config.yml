@@ -1,0 +1,18 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+- jekyll-seo-tag
+
+title: Kudos - l'argent du troc au don
+description: Une exploration des monnaies alternatives et de la reconnaissance mutuelle
+show_downloads: true
+google_analytics: 
+
+# Navigation
+header_pages:
+  - index.md
+  - concept.md
+  - extraits.md
+  - experimentations.md
+  - auteur.md
+  - ressources.md
