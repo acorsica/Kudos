@@ -4,9 +4,9 @@ Ce dépôt contient le projet de livre intitulé "Kudos - l'argent du troc au do
 
 ## Structure du Dépôt
 
-- `introduction.md` : Introduction du livre
+- [`introduction.md`](introduction.md) : Introduction du livre
 - `chapitres/` : Dossier contenant les chapitres du livre
-  - `chapitre1.md` : Qu'est-ce que les Kudos ?
+  - [`chapitre1.md`](chapitres/chapitre1.md) : Qu'est-ce que les Kudos ?
   - `chapitre2.md` : Du Troc à la Monnaie
   - `chapitre3.md` : L'Évolution des Monnaies Complémentaires
   - `chapitre4.md` : La Création des Kudos
@@ -19,16 +19,16 @@ Ce dépôt contient le projet de livre intitulé "Kudos - l'argent du troc au do
   - `chapitre11.md` : Philosophie du Don et de la Récompense
   - `chapitre12.md` : L'Avenir des Kudos
 - `annexes/` : Dossier contenant les annexes du livre
-  - `glossaire.md` : Glossaire des termes
-  - `bibliographie.md` : Bibliographie et lectures recommandées
-  - `ressources.md` : Ressources pour aller plus loin
+  - [`glossaire.md`](annexes/glossaire.md) : Glossaire des termes
+  - [`bibliographie.md`](annexes/bibliographie.md) : Bibliographie et lectures recommandées
+  - [`ressources.md`](annexes/ressources.md) : Ressources pour aller plus loin
 - `dossier-de-soumission/` : Dossier contenant les documents nécessaires pour la soumission du projet aux éditeurs
-  - `resume.md` : Résumé du livre
+  - [`resume.md`](dossier-de-soumission/resume.md) : Résumé du livre
   - `table_des_matieres.md` : Table des matières
   - `lettre_de_motivation.md` : Lettre de motivation
   - `biographie_auteur.md` : Biographie de l'auteur
   - `analyse_marche.md` : Analyse du marché
-  - `plan_promotion.md` : Plan de promotion
+  - [`plan_promotion.md`](dossier-de-soumission/plan_promotion.md) : Plan de promotion
 
 ## Licence
 
