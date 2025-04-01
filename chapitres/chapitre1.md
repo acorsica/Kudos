@@ -64,7 +64,7 @@ Ces principes ne sont pas des règles rigides mais des orientations qui guident 
 
 Au-delà de leur dimension pratique, les Kudos représentent une fissure dans la réalité consensuelle de notre système économique. Ils nous permettent d'entrevoir un monde où la valeur n'est plus définie par la rareté et l'accumulation, mais par la reconnaissance mutuelle et la contribution au bien commun.
 
-Cette fissure n'est pas simplement conceptuelle mais expérientielle. Les utilisateurs de systèmes de Kudos rapportent souvent une transformation de leur perception de la valeur et de l'échange. Ils commencent à percevoir les dimensions cachées des transactions économiques, les relations sociales qui les sous-tendent, les récits qui les accompagnent.
+Cette fissure n'est pas simplement conceptuelle mais expérientielle. Nous postulons que les utilisateurs de systèmes de Kudos parlerons souvent d'une transformation de leur perception de la valeur et de l'échange. A mesure que des Kudos circuleront, les usagers commenceront à percevoir les dimensions cachées des transactions économiques, les relations sociales qui les sous-tendent, les récits qui les accompagnent.
 
 Les Kudos agissent ainsi comme une technologie de perception, un dispositif qui nous permet de voir ce qui était toujours là mais que notre système économique conventionnel nous avait appris à ignorer : la dimension sociale, relationnelle et narrative de nos échanges.
 
