@@ -11,7 +11,7 @@ Jean Hugues Noël Robert est un programmeur et entrepreneur social, né en Franc
 
 ### Parcours professionnel
 
-Programmeur depuis l'âge de 14 ans, Jean Hugues a travaillé dans divers domaines de l'informatique, de la programmation système bas niveau aux applications web et mobiles. Cette expertise technique lui a permis de développer une compréhension approfondie des systèmes complexes et des architectures distribuées, compétences qu'il a ensuite appliquées à la conception de systèmes économiques alternatifs.
+Programmeur depuis l'âge de 14 ans, Jean Hugues a travaillé dans divers domaines de l'informatique, de la programmation système bas niveau aux applications web et mobiles. Cette expertise technique lui a permis de développer une compréhension approfondie des systèmes complexes et des architectures distribuées, compétences qu'il a ensuite appliquées à la conception de systèmes économiques alternatifs. Un succès dans la Silicon Valley au tournant des années 2000 l'a mis à l'abri des nécessités matérielles, lui permettant de consacrer son énergie à imaginer d'autres mondes.
 
 En parallèle de son activité de programmeur, il s'est engagé dans le développement territorial en Corse, travaillant avec des communautés locales pour revitaliser l'économie rurale et préserver le patrimoine culturel de l'île. Cette immersion dans les réalités territoriales a nourri sa réflexion sur les limites des systèmes économiques conventionnels et la nécessité d'alternatives enracinées dans les contextes locaux.
 
@@ -21,13 +21,12 @@ L'idée des Kudos est née de la convergence de ces deux trajectoires : d'une pa
 
 Face aux limites des monnaies locales traditionnelles et inspiré par les travaux d'anthropologues comme David Graeber et Marcel Mauss, Jean Hugues a commencé à conceptualiser un système qui préserverait la mémoire sociale des échanges tout en facilitant la circulation de la reconnaissance au sein des communautés.
 
-Les premières expérimentations des Kudos ont été menées dans de petits villages corses, où les traditions d'entraide étaient encore vivantes mais fragilisées par les transformations économiques contemporaines. Le succès de ces expérimentations a encouragé Jean Hugues à approfondir et à formaliser le concept, donnant naissance au projet de livre "Kudos - l'argent du troc au don".
 
 ### Vision et engagements
 
 Jean Hugues est convaincu que les technologies numériques, loin d'être intrinsèquement déshumanisantes, peuvent être mises au service de la revitalisation des liens sociaux et de la création de formes de prospérité plus inclusives et durables.
 
-Il est également engagé dans la promotion de l'open source et des communs numériques, considérant que les outils et les connaissances nécessaires à la transformation économique doivent être accessibles à tous et co-créés par les communautés elles-mêmes.
+Il est également engagé dans la promotion de la démocratie directe, de l'open source et des communs numériques, considérant que les outils et les connaissances nécessaires à la transformation économique doivent être accessibles à tous et co-créés par les communautés elles-mêmes.
 
 À travers le projet Kudos, il espère contribuer à l'émergence d'un écosystème d'innovations sociales et économiques qui permettront aux communautés de reprendre le contrôle de leur destin économique tout en préservant leur cohésion sociale et leur environnement naturel.
 
@@ -35,6 +34,6 @@ Il est également engagé dans la promotion de l'open source et des communs num�
 
 Pour contacter Jean Hugues Noël Robert :
 
-- Email : [contact@kudos-project.org](mailto:contact@kudos-project.org)
-- Twitter : [@JHRobert](https://twitter.com/JHRobert)
+- Email : [institutmariani@gmail.com](mailto:institutmariani@gmail.com)
+- Twitter : [@jhr](https://twitter.com/jhr)
 - GitHub : [JeanHuguesRobert](https://github.com/JeanHuguesRobert)
