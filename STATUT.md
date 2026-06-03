@@ -1,22 +1,41 @@
 # Statut du dépôt `acorsica/Kudos`
 
-Ce dépôt contient le projet de livre **Kudos - l’argent du troc au don**.
+Ce dépôt documente **Kudos**, monnaie complémentaire conçue comme une couche publique, volontaire, nominative, transparente et traçable de don / contre-don, adossée à l’euro.
 
-Il documente une réflexion sur les monnaies complémentaires, le don, la reconnaissance mutuelle et les Kudos comme dispositif symbolique, civique et économique.
+Le dépôt contient notamment le projet de livre **Kudos - l’argent du troc au don**, mais il ne doit pas être réduit à ce seul statut éditorial.
 
 ## Qualification actuelle
 
 Ce dépôt est qualifié comme :
 
-> dépôt éditorial et doctrinal lié aux travaux de C.O.R.S.I.C.A. et de l’Institut Mariani.
+> dépôt doctrinal, éditorial et pré-opérationnel relatif à la monnaie complémentaire Kudos.
 
-Il n’est pas, en l’état, qualifié comme dépôt applicatif principal de l’infrastructure Inseme.
+Kudos est défini dans le corpus comme une **monnaie complémentaire maussienne, adossée à une réserve en euros**, destinée à expérimenter une économie du don / contre-don économiquement significative.
+
+## Document source de référence
+
+Le document conceptuel le plus structurant actuellement identifié est :
+
+- [`JeanHuguesRobert/barons-Mariani/research/kudos.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudos.md)
+
+Ce document définit notamment Kudos comme :
+
+- une monnaie complémentaire ;
+- une couche de reconnaissance et de contre-don ajoutée à une transaction réelle en euros ;
+- un dispositif public, volontaire, nominatif, traçable et vérifiable ;
+- un instrument adossé à une réserve en euros ;
+- une expérimentation territoriale possible, notamment à Corte ;
+- une sonde institutionnelle de l’autonomie de capacité.
+
+## Formule centrale
+
+> L’euro clôt la transaction ; le Kudos ouvre le contre-don.
 
 ## Lien avec Inseme
 
-Le concept de Kudos peut être lié aux travaux développés dans ou autour d’Inseme, notamment lorsqu’il est question de monnaie complémentaire, de reconnaissance mutuelle, de contribution civique, de don ou de contre-don.
+Kudos peut être lié aux travaux développés dans ou autour d’Inseme, notamment lorsqu’il est question de contribution civique, reconnaissance mutuelle, circulation territoriale, don, contre-don ou monnaie complémentaire.
 
-Cependant, le présent dépôt conserve une fonction propre : il documente principalement un projet de livre.
+Cependant, le présent dépôt conserve une fonction propre : il documente Kudos comme monnaie complémentaire et comme projet doctrinal / éditorial associé.
 
 ## Lien avec C.O.R.S.I.C.A. et l’Institut Mariani
 
