@@ -1,8 +1,26 @@
 # Kudos - l'argent du troc au don
 
-Ce dépôt contient le projet de livre intitulé "Kudos - l'argent du troc au don". Ce livre explore l'histoire, la théorie, et l'utilisation pratique des monnaies complémentaires, avec un focus particulier sur les Kudos, une monnaie alternative visant à révéler la réalité cachée derrière nos échanges et à promouvoir la reconnaissance mutuelle comme fondement d'une nouvelle forme de prospérité partagée.
+**Kudos** est le nom d’une monnaie complémentaire conçue comme une couche publique, volontaire, nominative, transparente et traçable de don / contre-don, adossée à l’euro.
 
-En une formule : **Les Kudos sont au don ce que l'argent est au troc**
+Le dépôt contient aussi le projet de livre intitulé **Kudos - l'argent du troc au don**. Ce livre explore l'histoire, la théorie et l'utilisation pratique des monnaies complémentaires, avec un focus particulier sur les Kudos comme monnaie alternative visant à révéler la réalité cachée derrière nos échanges et à promouvoir la reconnaissance mutuelle comme fondement d'une nouvelle forme de prospérité partagée.
+
+En une formule :
+
+> **L’euro clôt la transaction ; le Kudos ouvre le contre-don.**
+
+Formule historique du dépôt :
+
+> **Les Kudos sont au don ce que l'argent est au troc.**
+
+## Statut du dépôt
+
+Ce dépôt est qualifié comme :
+
+> dépôt doctrinal, éditorial et pré-opérationnel relatif à la monnaie complémentaire Kudos.
+
+Voir : [`STATUT.md`](STATUT.md)
+
+Document source de référence dans le corpus : [`JeanHuguesRobert/barons-Mariani/research/kudos.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudos.md)
 
 ## Site Web du Projet
 
