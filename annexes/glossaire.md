@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "book-annex"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "book-annex"
+classification_confidence: "strong"
+---
+
 # Glossaire des termes
 
 Ce glossaire regroupe les définitions des concepts clés abordés dans l'ouvrage "Kudos - l'argent du troc au don". Il vise à clarifier la terminologie spécifique aux monnaies complémentaires et aux systèmes de reconnaissance.

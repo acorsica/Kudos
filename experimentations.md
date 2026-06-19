@@ -1,6 +1,14 @@
 ---
 layout: default
 title: Expérimentations en cours
+document_role: "source"
+document_kind: "experiment-log"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "experiment-log"
+classification_confidence: "medium"
 ---
 
 # Expérimentations des Kudos

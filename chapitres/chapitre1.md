@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "book-chapter"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "book-chapter"
+classification_confidence: "strong"
+---
+
 # Chapitre 1 : Qu'est-ce que les Kudos ?
 
 ## Origine étymologique et conceptuelle des Kudos

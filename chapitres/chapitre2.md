@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "book-chapter"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "book-chapter"
+classification_confidence: "strong"
+---
+
 # Chapitre 2 : Du Troc à la Monnaie
 
 ## L'archéologie des échanges humains

@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "introduction"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "introduction"
+classification_confidence: "medium"
+---
+
 # Introduction
 
 ## Au-delà du voile monétaire

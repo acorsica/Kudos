@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "book-annex"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "book-annex"
+classification_confidence: "strong"
+---
+
 # Bibliographie
 
 Cette bibliographie présente les ouvrages et travaux qui ont inspiré et nourri la réflexion sur les Kudos comme monnaie alternative basée sur la reconnaissance et le don. Marcel Mauss occupe une place centrale dans cette réflexion, son travail sur le don ayant posé les fondements théoriques essentiels à la compréhension des échanges non marchands.

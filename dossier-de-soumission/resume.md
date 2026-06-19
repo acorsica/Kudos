@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "submission-material"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "submission-material"
+classification_confidence: "strong"
+---
+
 # Résumé du livre "Kudos - l'argent du troc au don"
 
 "Kudos - l'argent du troc au don" explore l'histoire, la théorie et l'application pratique des monnaies complémentaires, avec un focus particulier sur les Kudos, un système de reconnaissance mutuelle innovant qui révèle la réalité cachée derrière nos échanges économiques.

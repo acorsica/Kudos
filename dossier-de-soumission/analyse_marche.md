@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "submission-material"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "submission-material"
+classification_confidence: "strong"
+---
+
 # Analyse du marché
 
 ## Tendances éditoriales actuelles

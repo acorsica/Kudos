@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "book-annex"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "book-annex"
+classification_confidence: "strong"
+---
+
 # Ressources pour aller plus loin
 
 Cette section compile des ressources variées pour approfondir votre compréhension des Kudos et des monnaies complémentaires en général. Vous y trouverez des sites web, des communautés, des outils, des conférences et des formations qui pourront vous aider à mettre en pratique les concepts abordés dans ce livre. De nombreuses sections sont à compléter, ceci est un "travail en course", un "WIP, Work In Progress".

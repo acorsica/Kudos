@@ -1,6 +1,14 @@
 ---
 layout: default
 title: À propos de l'auteur
+document_role: "source"
+document_kind: "profile"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "profile"
+classification_confidence: "medium"
 ---
 
 # À propos de l'auteur

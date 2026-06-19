@@ -1,6 +1,14 @@
 ---
 layout: default
 title: Accueil
+document_role: "source"
+document_kind: "navigation"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "root-index"
+classification_confidence: "medium"
 ---
 
 # Kudos - l'argent du troc au don

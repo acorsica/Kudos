@@ -1,6 +1,14 @@
 ---
 layout: default
 title: Extraits du livre
+document_role: "source"
+document_kind: "book-excerpt"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "book-excerpt"
+classification_confidence: "medium"
 ---
 
 # Extraits du livre "Kudos - l'argent du troc au don"

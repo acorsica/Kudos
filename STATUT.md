@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "operational-note"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "repository-status"
+classification_confidence: "medium"
+---
+
 # Statut du dépôt `acorsica/Kudos`
 
 Ce dépôt documente **Kudos**, monnaie complémentaire conçue comme une couche publique, volontaire, nominative, transparente et traçable de don / contre-don, adossée à l’euro.
