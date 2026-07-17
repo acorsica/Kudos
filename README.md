@@ -1,3 +1,23 @@
+---
+title: Kudos - l'argent du troc au don
+author: unknown
+date: '2026-06-03'
+document_role: source
+document_kind: documentation
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
+provenance:
+  origin_type: repository
+  origin_repository: acorsica/Kudos
+  origin_ref: af819e4
+  origin_date: '2026-06-03'
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+---
+
 # Kudos - l'argent du troc au don
 
 **Kudos** est le nom d’une monnaie complémentaire conçue comme une couche publique, volontaire, nominative, transparente et traçable de don / contre-don, adossée à l’euro.
