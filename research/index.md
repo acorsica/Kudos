@@ -1,17 +1,33 @@
 ---
-title: "Research Index - Kudos"
-description: "Navigation index for the Kudos repository in the C.O.R.S.I.C.A. corpus."
-last_modified_at: 2026-06-19
+title: Research Index - Kudos
+description: Navigation index for the Kudos repository in the C.O.R.S.I.C.A. corpus.
+last_modified_at: 2026-06-19T00:00:00.000Z
 corpus_role: index
-document_role: "index"
-document_kind: "research-index"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-index"
-classification_confidence: "strong"
+document_role: index
+document_kind: research-index
+visibility: public
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-index
+classification_confidence: strong
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: en
+date: '2026-09-15'
+update_policy: UP-DEFAULT-REVIEWED
+status: working-paper
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 # Research Index - Kudos
 
 Kudos documents a complementary currency and a book project around public, voluntary, nominative and traceable gift / counter-gift, backed by the euro.
