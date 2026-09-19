@@ -62,3 +62,13 @@ Kudos documents a complementary currency and a book project around public, volun
 - [Barons Mariani - Kudos source note](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudos.md)
 - [Institut Mariani initiatives](https://github.com/acorsica/institut-mariani/blob/main/initiatives.md)
 
+<!-- BEGIN_AUTO: index_catalog -->
+## Corpus catalog
+
+*Generated navigation. Editorial sections above remain human-maintained.*
+
+| Document | Role | Updated |
+|---|---|---|
+| [Kudos agent mandate](../AGENTS.md) | operational | 2026-08-11 |
+
+<!-- END_AUTO: index_catalog -->
