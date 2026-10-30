@@ -26,6 +26,8 @@ provenance:
 
 
 # Biographie de l'auteur
+Pour naviguer entre les sources historiques et les études spécialisées, voir l'[index biographique transversal du Corpus](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/biographie_index.md).
+
 
 ## Jean Hugues Noël Robert
 
