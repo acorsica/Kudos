@@ -37,6 +37,16 @@ Programmeur depuis l'âge de 14 ans, il a traversé près d'un demi-siècle d'é
 
 Sa carrière en programmation l'a amené à concevoir des architectures de systèmes complexes où la question de la circulation de l'information et de la valeur s'est toujours posée comme un défi fondamental. Cette expérience technique nourrit aujourd'hui sa réflexion sur les Kudos comme système alternatif de circulation de la reconnaissance.
 
+## Perform SA et Odisei : de la gestion des réseaux à la téléphonie sur Internet
+
+Selon son ancien [profil professionnel Viadeo](https://viadeo.journaldunet.com/p/jean-hugues-robert-1004071), Jean Hugues Robert a exercé chez **Perform SA**, éditeur de logiciels de sécurité et de gestion de réseaux informatiques à Aix-en-Provence, entre **1987 et 1997**, avec des responsabilités de direction technique et d'ingénierie (*CTO*, *VP Engineering*). Perform développait des solutions d'administration de réseaux hétérogènes, notamment autour du protocole X.25. Des témoignages professionnels d'anciens collaborateurs évoquent les gammes **SAGE/X, Dashboard et Visualis**. Perform fut ensuite intégrée à **BMC Software**. Les dates de fonctions et les détails de cette opération restent à consolider par des archives sociales et contractuelles.
+
+De **1998 à 2001**, il participe à **Odisei**, entreprise de téléphonie sur IP implantée à Sophia Antipolis, dont il devient directeur technique. L'entreprise développe un système de téléphonie d'entreprise hébergée utilisant Internet (un ancêtre des offres contemporaines de téléphonie dans le cloud) ; elle est acquise par **8x8 en 1999**. Après l'acquisition, il prend la direction du bureau français, qui compte alors plus de quarante collaborateurs selon son propre récit professionnel de 2016. Son parcours est également associé à des travaux brevetés de découverte et de connexion autonomes d'équipements réseau.
+
+Cette trajectoire technologique, de la supervision des réseaux à la communication IP et aux services distribués, éclaire ses recherches ultérieures sur les architectures décentralisées, la coordination et l'autonomie des systèmes.
+
+Sources : [présentation professionnelle GitHub](https://github.com/JeanHuguesRobert/JeanHuguesRobert#what-i-have-built), [profil Viadeo](https://viadeo.journaldunet.com/p/jean-hugues-robert-1004071), [témoignage d'un ancien architecte Perform/BMC](https://viadeo.journaldunet.com/p/philippe-nicolai-1143068). Un récit professionnel autobiographique daté du 14 mars 2016, conservé dans la correspondance privée de l'auteur, confirme le rôle de direction chez Odisei et l'étape antérieure dans l'administration de réseaux.
+
 ## Premières expérimentations sur le Web : Virteal et YanUg
 
 Au milieu des années 2000, Jean Hugues Noël Robert développe l'univers **Virteal**, contraction de *Virtual* et *Real*, associé à la formule *Almost Real*. Après avoir hésité avec l'appellation **VirtReal**, il retient Virteal. Son emblème, **YanUg**, est un visage solaire inspiré graphiquement du yin-yang, documenté dès 2007 et décliné en plusieurs expressions.
