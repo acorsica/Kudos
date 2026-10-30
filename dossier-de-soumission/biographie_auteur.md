@@ -47,6 +47,16 @@ Cette trajectoire technologique, de la supervision des réseaux à la communicat
 
 Sources : [présentation professionnelle GitHub](https://github.com/JeanHuguesRobert/JeanHuguesRobert#what-i-have-built), [profil Viadeo](https://viadeo.journaldunet.com/p/jean-hugues-robert-1004071), [témoignage d'un ancien architecte Perform/BMC](https://viadeo.journaldunet.com/p/philippe-nicolai-1143068). Un récit professionnel autobiographique daté du 14 mars 2016, conservé dans la correspondance privée de l'auteur, confirme le rôle de direction chez Odisei et l'étape antérieure dans l'administration de réseaux.
 
+## D2Lab et les Digipees : représenter les personnes et leurs interactions
+
+Dans les années **2006–2007**, Jean Hugues Robert participe au projet **D2Lab**, lié à l'exploration des interactions sociales et des représentations numériques des personnes. Le projet développe notamment les **Digipees** (*Digital People*), une famille de personnages et de symboles graphiques conçue par **Yvan Balsamo**. Les deux fichiers SVG historiques conservés dans le Corpus portent des métadonnées de création du **7 avril 2006** et des modifications du **21 août 2006**.
+
+Les Digipees ne se limitaient pas à des personnages : leur vocabulaire graphique représentait également des appareils, des objets d'information, des signaux et de petites scènes. Cette recherche d'un langage visuel cohérent constitue un jalon distinct des travaux sur **YanUg** et **Virteal**, sans qu'il soit nécessaire de prétendre que ces expériences procédaient déjà d'une théorie unique.
+
+En **octobre 2007**, Jean Hugues Robert propose la diffusion ouverte des actifs graphiques et logiciels de D2Lab. Des réponses écrites de plusieurs participants, dont le créateur des illustrations, documentent leur accord de principe. Les archives conservées distinguent toutefois les formulations initiales, juridiquement ambiguës, et les conditions de réutilisation définies ultérieurement. Deux sources vectorielles ont été récupérées en 2018 et préservées sans modification dans le Corpus.
+
+Sources : [Histoire et provenance des Digipees](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/hosted/digipees/HISTORY.md), [provenance des SVG originaux](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/hosted/digipees/originals/PROVENANCE.md), [accord de diffusion de 2007](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/hosted/digipees/docs/provenance-and-rights.md) et [généalogie du graphisme génératif](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/generative_graphic_design_lineage.md).
+
 ## Premières expérimentations sur le Web : Virteal et YanUg
 
 Au milieu des années 2000, Jean Hugues Noël Robert développe l'univers **Virteal**, contraction de *Virtual* et *Real*, associé à la formule *Almost Real*. Après avoir hésité avec l'appellation **VirtReal**, il retient Virteal. Son emblème, **YanUg**, est un visage solaire inspiré graphiquement du yin-yang, documenté dès 2007 et décliné en plusieurs expressions.
