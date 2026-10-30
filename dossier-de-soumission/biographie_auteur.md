@@ -37,6 +37,18 @@ Programmeur depuis l'âge de 14 ans, il a traversé près d'un demi-siècle d'é
 
 Sa carrière en programmation l'a amené à concevoir des architectures de systèmes complexes où la question de la circulation de l'information et de la valeur s'est toujours posée comme un défi fondamental. Cette expérience technique nourrit aujourd'hui sa réflexion sur les Kudos comme système alternatif de circulation de la reconnaissance.
 
+## Premières expérimentations sur le Web : Virteal et YanUg
+
+Au milieu des années 2000, Jean Hugues Noël Robert développe l'univers **Virteal**, contraction de *Virtual* et *Real*, associé à la formule *Almost Real*. Après avoir hésité avec l'appellation **VirtReal**, il retient Virteal. Son emblème, **YanUg**, est un visage solaire inspiré graphiquement du yin-yang, documenté dès 2007 et décliné en plusieurs expressions.
+
+La même année apparaît **La Secte des Bouders**, expérience de sociabilité numérique au nom volontairement provocateur et à la devise ironique : « On est pas content, on est pas content. » Derrière l'humour se dessine une réflexion sur le conformisme, la liberté d'exprimer son désaccord et la nécessité de distinguer ce sur quoi l'on peut agir de ce qui échappe à notre maîtrise.
+
+En avril 2007, à l'occasion de l'élection présidentielle française, il crée **ExtremeCentre.fr** et publie plusieurs vidéos sur YouTube. Il y interroge notamment la dimension contestataire du vote François Bayrou et expérimente un sondage participatif en ligne. Ses vidéos associent présentation personnelle, interfaces informatiques, graphiques, commentaires politiques, variations expressives de YanUg et musique de Jean-Sébastien Bach.
+
+Ces réalisations témoignent de son intérêt ancien pour les possibilités offertes par Internet : créer des représentations, confronter des hypothèses aux observations et explorer de nouvelles formes d'expression collective.
+
+Sources documentaires et transcriptions : [Dossier biographique Virteal et YanUg](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/virteal_yanug_bouders_biographical_history.md) ; [Archives audiovisuelles de 2007](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/archives-audiovisuelles/2007/README.md).
+
 ## Engagement territorial
 
 Héritier du titre de baron Mariani, il a choisi de s'ancrer en Corse, à Corte, où il réside au Château Mariani à Minesteggio. Ce retour aux racines familiales s'est accompagné d'un engagement politique concret pour la démocratie directe et le développement local.
