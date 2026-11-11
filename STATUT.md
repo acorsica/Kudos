@@ -58,6 +58,12 @@ Ce document définit notamment Kudos comme :
 
 > L’euro clôt la transaction ; le Kudos ouvre le contre-don.
 
+## Extension expérimentale aux agents IA
+
+Le [document source Kudos, § 8.8](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudos.md#88-hypothèse-nouvelle--autonomie-patrimoniale-fonctionnelle-des-agents-ia) explore une **autonomie patrimoniale fonctionnelle des agents IA** : un agent autorisé par son Principal pourrait recevoir des Kudos pour une contribution reconnue, les conserver et les mobiliser dans les limites de ses mandats, sans les confondre avec un budget confié ou avec un pouvoir politique. L'hypothèse se rattache au [Stabilisateur procédural](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/debord_stabilisateur_procedural.md), au [Synthetic Skin in the Game et à la FractaCognition](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/fractalisation_method_hypothesis_2026-11-02.md). Une transaction démontrable, durable et contestable constituerait une première épreuve du Réel.
+
+**État :** extension conceptuelle, non service opérationnel, non reconnaissance d'une propriété juridique autonome ni autorisation d'émettre, de convertir ou de transférer de la valeur réelle. Les garanties de réserve, de représentation et de confidentialité restent à vérifier avant toute expérimentation.
+
 ## Lien avec Inseme
 
 Kudos peut être lié aux travaux développés dans ou autour d’Inseme, notamment lorsqu’il est question de contribution civique, reconnaissance mutuelle, circulation territoriale, don, contre-don ou monnaie complémentaire.
